@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'Rock, paper, scissors!'
+  'Rock, paper, sciss!'
 end
